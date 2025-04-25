@@ -1,0 +1,8 @@
+streamlit
+numpy
+langchain
+langchain_community
+langchain_text_splitters
+langchain_huggingface
+langchain_core
+langchain_ollama
